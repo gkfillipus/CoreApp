@@ -9,6 +9,10 @@ The library has been tested and already used by this apps
 
 [Buzhub]() - BuzHub is Business directory application for easy search of business contacts so you don't have to carry the directory book
 
+If your app use this library and you think that this is good start please make a small donation to keep this library a live
+
+[![Donate]()
+
 
 
 # License
