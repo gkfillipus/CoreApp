@@ -1,7 +1,9 @@
 # CoreApp
 Android core library framework
 # Documentations 
-including gradle installations coming soon, the library been tested and already used by this apps
+including gradle installations coming soon, please use [wiki](https://github.com/gkfillipus/CoreApp/wiki) 
+
+The library has been tested and already used by this apps
 
 [Glowdom](glowdom.com) - E-learning hub for Namibia high school
 
