@@ -9,8 +9,9 @@ including gradle installations coming soon, the library been tested and already 
 
 
 
+# License
 
-Copyright {2017} {Geraldo Kandonga Fillipus}
+Copyright 2017 Geraldo Kandonga Fillipus
 
    Licensed under the Apache License, Version 2.0 (the "License");
    
